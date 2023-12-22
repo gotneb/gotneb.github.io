@@ -40925,7 +40925,7 @@ QS(a){var s,r=this,q=null
 r.a.toString
 s=r.gV1()
 r.a.toString
-return new A.wf(q,q,q,new A.a4r(),q,q,q,q,q,B.wp,B.EH,q,q,q,B.Cl,r.gV9(),"Gabriel Bento - Flutter Developer",q,B.JL,B.d2,q,s,q,q,B.kE,!1,!1,!1,!1,r.gUN(),!0,q,q,q,new A.lZ(r,t.bT))},
+return new A.wf(q,q,q,new A.a4r(),q,q,q,q,q,B.wp,B.EH,q,q,q,B.Cl,r.gV9(),"Gabriel Bento",q,B.JL,B.d2,q,s,q,q,B.kE,!1,!1,!1,!1,r.gUN(),!0,q,q,q,new A.lZ(r,t.bT))},
 T(a){var s,r=null,q=A.C6(!1,!1,this.QS(a),r,r,r,r,!0,r,r,new A.a4s(),r,r,r)
 this.a.toString
 s=this.d
