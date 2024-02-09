@@ -65526,7 +65526,7 @@ O(a){var s,r,q,p,o,n,m=null,l=t.w,k=A.by(a,B.au,l).w.a.a,j=A.by(a,B.au,l).w.a.b
 l=$.ak1()
 s=A.i5(B.X,l,A.aeh(l,A.afi("assets/images/me_05.jpg",m,300,300)),B.l,B.H,12,m,m,m,m,m,B.aO)
 l=new A.Ps(s)
-r=A.afi($.amZ[B.yv.a40(1)],B.j8,0.7*j,k)
+r=A.afi($.amZ[B.yv.a40(3)],B.j8,0.7*j,k)
 q=new A.Pu(k,j)
 p=t.E
 o=A.hO(A.a([new A.e1(0.46*j,m),A.mU(A.a([s,B.cD,new A.hV(1,B.bX,l.$0(),m)],p),B.aE,B.V,B.ab),B.cD,B.jc],p),B.aD,B.V,B.ab)
@@ -70804,7 +70804,7 @@ $.ae0=null
 $.acH=A.ay(t.N)
 $.ajN=A.ay(t.uz)
 $.afN=A.a([B.H3,B.H2,B.H5,B.H1,B.H6,B.H7,B.H0,B.H4],A.a7("w<eR>"))
-$.amZ=A.a(["assets/images/bg_2.gif"],t.s)
+$.amZ=A.a(["assets/images/bg_0.jpg","assets/images/bg_1.jpg","assets/images/bg_2.gif"],t.s)
 $.apw=A.C(t.S,A.a7("ays"))
 $.afI=null
 $.afG=null
